@@ -6,7 +6,7 @@
         "items": [
           {
             "items": [
-              "hexcasting:edified_log"
+              "hexcasting:edified_log_purple"
             ]
           }
         ]
@@ -15,7 +15,7 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "hexcasting:edified_wood"
+        "recipe": "hexcasting:edified_log_purple"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
@@ -28,7 +28,7 @@
   ],
   "rewards": {
     "recipes": [
-      "hexcasting:edified_wood"
+      "hexcasting:edified_log_purple"
     ]
   }
 }

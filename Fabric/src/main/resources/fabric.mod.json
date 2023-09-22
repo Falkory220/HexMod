@@ -72,7 +72,8 @@
       "hexcasting:pigment",
       "hexcasting:iota_holder",
       "hexcasting:media_holder",
-      "hexcasting:hex_holder"
+      "hexcasting:hex_holder",
+      "hexcasting:variant_item"
     ]
   }
 }
